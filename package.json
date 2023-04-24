@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "xo": "^0.20.3"
+    "xo": "^0.54.1"
   },
   "xo": {
     "space": 2,
